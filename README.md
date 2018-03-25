@@ -1,1 +1,1 @@
-# shaowdsocks
+# shadowsocks
